@@ -1,0 +1,21 @@
+# Compiled Java
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Generated tickets (runtime output)
+ticket_*.txt
