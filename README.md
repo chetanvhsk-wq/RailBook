@@ -4,7 +4,7 @@ A Java Swing desktop app for railway seat reservation — pick your route, click
 
 ---
 
-## ✨ Features
+## ✨ Feature
 
 - **Interactive seat map** — 40 seats per coach; green = free, grey = booked, blue = your selection (up to 6)
 - **Live fare calculator** — updates as you pick seats; applies concessions for senior citizens and students
