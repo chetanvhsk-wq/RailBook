@@ -138,4 +138,12 @@ Team 1 — CMR University, Dept. of CSE
 
 This project is for academic purposes.
 
-[Portfolio](https://portfolio-beta-gilt-29.vercel.app)
+---
+
+<div align="center">
+
+### More from Chetan
+
+[Visit my portfolio →](https://portfolio-beta-gilt-29.vercel.app)
+
+</div>
